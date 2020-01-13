@@ -1,0 +1,16 @@
+lab50 : true
+
+lab50:
+  window:
+    -editor
+    -readme
+    -terminal
+    
+lab50:
+  files:
+    -!include foo.c
+    -!include foo.h
+    
+ 
+ **prvi** pokušaj na *GitHub-u**
+ {% next %}

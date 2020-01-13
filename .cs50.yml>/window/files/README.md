@@ -12,5 +12,5 @@ lab50:
     -!include foo.h
     
  
- **prvi** pokušaj na *GitHub-u**
- {% next %}
+ prvi *pokušaj* na **GitHub-u**
+ 

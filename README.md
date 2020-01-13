@@ -1,3 +1,3 @@
 # super-computing-machine
 
-samo cu rec koji kurac
+CS50 Lab
